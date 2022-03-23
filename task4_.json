@@ -1,0 +1,17 @@
+{
+    "Name": "Luca",
+    "Rating": "PG",
+    "Gerne": [
+        "Comedy",
+        "Kids&family",
+        "Animation",
+        "Fantasy"
+    ],
+    "Original Language": "English",
+    "Director": [
+        "EnricoCasarosa"
+    ],
+    "Producer": "AndreaWarren",
+    "Writer": "JesseAndrews,MikeJones",
+    "Runtime": 100
+}
